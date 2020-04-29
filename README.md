@@ -6,3 +6,4 @@ Day to Day Tasks are published here
 ## DAY 3: Advanced Working with functions, Classes, CSS.
 ### Note:
 First the javascript's functions and classes will be executed after that you can view the design
+## DAY 4: Recap of part1 topics
