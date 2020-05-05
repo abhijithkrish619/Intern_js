@@ -32,3 +32,12 @@ Layout design with header and footer,side menu and body has been done by just us
 - and then replace app.js,index.js,index.css in the src of the mapp file with the one in day8 file
 - replace index.html in the public folder of mapp file with index.html in day8 file
 - copy paste the comp folder in src
+## Day 10:
+- I've create a shopping-cart with login and create account layout as well using react.js
+- To run this file.
+- Go to cmd type 
+- "npx create-react-app mapp
+- cd mapp
+- npm start
+- "
+- replace all the files other than node modules with the ones inside Day10 folder
